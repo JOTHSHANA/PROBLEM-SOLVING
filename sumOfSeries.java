@@ -1,4 +1,6 @@
-//GEEKS FOR GEEKS
+// SOLVED IN GEEKS FOR GEEKS
+// PROBLEM NAME : Sum of Series
+
 //{ Driver Code Starts
 import java.io.*;
 import java.util.*;
