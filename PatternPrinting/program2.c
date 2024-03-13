@@ -5,7 +5,7 @@ int main()
     scanf("%d", &num);
     for (int i = 0; i < num; i++)
     {
-        for (int j = 0; j < num; j++)
+        for (int j = 0; j <= i; j++)
         {
             printf("* ");
         }
@@ -15,13 +15,12 @@ int main()
 }
 
 /*
-
 INPUT:5
 OUTPUT:
-* * * * *
-* * * * *
-* * * * *
-* * * * *
+* 
+* * 
+* * * 
+* * * * 
 * * * * *
 
 */
