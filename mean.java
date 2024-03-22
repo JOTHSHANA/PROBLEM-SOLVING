@@ -40,3 +40,18 @@ class Solution {
         return avg;
     }
 };
+
+
+/*
+
+INPUT:
+2
+4
+56 67 30 79
+4
+78 89 67 76
+OUTPUT:
+58
+77
+
+ */
