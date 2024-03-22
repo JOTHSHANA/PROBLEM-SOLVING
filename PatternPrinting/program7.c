@@ -1,9 +1,12 @@
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main()
+{
     int limit;
     scanf("%d", &limit);
-    for(int i = 1; i <= limit; i++){
-        for(int j = 1; j <= limit; j++){
+    for (int i = 1; i <= limit; i++)
+    {
+        for (int j = 1; j <= limit; j++)
+        {
             printf("%d ", j);
         }
         printf("\n");
