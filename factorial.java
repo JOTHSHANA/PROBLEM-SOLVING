@@ -1,3 +1,6 @@
+// SOLVED IN GEEKS FOR GEEKS
+// PROBLEM NAME : Factorial
+
 //{ Driver Code Starts
 import java.io.*;
 import java.util.*;
