@@ -39,3 +39,16 @@ class Solution
         return sum;
     }
 }
+
+
+/**
+
+INPUT:
+2
+2
+3
+OUTPUT:
+20
+56
+
+ */
