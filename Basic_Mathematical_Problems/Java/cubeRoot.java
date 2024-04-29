@@ -1,5 +1,5 @@
 // SOLVED IN GEEKS FOR GEEKS
-// PROBLEM NAME : Cube root of a numbe
+// PROBLEM NAME : Cube root of a number
 
 //{ Driver Code Starts
 //Initial Template for Java
