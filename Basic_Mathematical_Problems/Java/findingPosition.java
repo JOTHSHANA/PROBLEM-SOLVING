@@ -28,7 +28,6 @@ class Solution {
         int prev=0;
         while(n>i)
         {
-            
             prev=i;
             i=i*2;
         }
