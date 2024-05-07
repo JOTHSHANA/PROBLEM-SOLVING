@@ -15,5 +15,5 @@ int main(){
         sum+=arr[i];
     }
     
-    printf("%d, %d", sum, product);
+    printf  ("%d, %d", sum, product);
 }
