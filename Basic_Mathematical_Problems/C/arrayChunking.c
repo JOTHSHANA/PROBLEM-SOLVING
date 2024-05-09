@@ -19,7 +19,7 @@ int main(){
                 printf(",");
             }
         }
-        printf("]");
+        printf("]");    
     }
     
     
