@@ -13,7 +13,7 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        for (int j = i + 1; j < n; j++)
+        for (int j = i + 1; j < n; )
         {
             if (arr[j] == arr[i])
             {
@@ -22,6 +22,9 @@ int main()
                     arr[k] = arr[k + 1];
                 }
                 n--;
+            }
+            else{
+                j++;
             }
         }
     }
