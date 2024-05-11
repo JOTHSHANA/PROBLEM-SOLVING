@@ -37,3 +37,5 @@ int main()
 
     return 0;
 }
+
+//reversing each word in a sentence
