@@ -26,7 +26,7 @@ int main()
         l++;
     }
 
-    word[k][l] = '\0';  
+    word[k][l] = '\0';
 
     int len = 0;
     char ans[30];
@@ -41,3 +41,4 @@ int main()
 
     printf("%s", ans);
 }
+
