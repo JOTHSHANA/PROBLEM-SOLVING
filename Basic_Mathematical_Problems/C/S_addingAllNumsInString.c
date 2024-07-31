@@ -35,3 +35,28 @@ int main()
 
     printf("%d", ans);
 }
+
+
+
+
+//or
+
+// #include <stdio.h>
+// #include <string.h>
+// #include <ctype.h>
+
+// int main()
+// {
+//     char str[300];
+//     scanf("%s", &str);
+//     int ans = 0;
+
+//     for (int i = 0; i < strlen(str); i++)
+//     {
+//         if(isdigit(str[i])){
+//             ans = ans + (str[i] - 48);
+//         }
+//     }
+
+//     printf("%d", ans);
+// }
